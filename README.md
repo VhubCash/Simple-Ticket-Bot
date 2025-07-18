@@ -18,14 +18,21 @@ Un bot de Discord simple y personalizable para crear tickets, realizar cálculos
 
 ---
 
-## 📸 Captura de ejemplo
 
-<p align="center">
-  <em>Ejemplo real del bot funcionando en Discord:</em><br>
-  <img src="https://github.com/VhubCash/Simple-Ticket-Bot/blob/main/Resources/Screenshot_1.png?raw=true" width="350">
-  &nbsp;&nbsp;
-  <img src="https://github.com/VhubCash/Simple-Ticket-Bot/blob/main/Resources/Screenshot_2.png?raw=true" width="350">
-</p>
+## 🖼️ Capturas del bot
+
+### 🆕 Crear ticket
+![Crear Ticket](https://github.com/VhubCash/Simple-Ticket-Bot/blob/main/Resources/panel.png?raw=true)
+
+### 🎫 Opciones de ticket
+![Ticket Creado](https://github.com/VhubCash/Simple-Ticket-Bot/blob/main/Resources/opciones.png?raw=true)
+
+### ❌ Control de ticket
+![Ticket Cerrado](https://github.com/VhubCash/Simple-Ticket-Bot/blob/main/Resources/admin_panel.png?raw=true)
+
+### 👥 Razon de Ticket
+![Sistema de Referidos](https://github.com/VhubCash/Simple-Ticket-Bot/blob/main/Resources/razon.png?raw=true)
+
 ---
 
 ## ⚙️ Requisitos

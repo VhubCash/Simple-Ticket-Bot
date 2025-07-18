@@ -20,7 +20,7 @@ Un bot de Discord simple y personalizable para crear tickets, realizar cálculos
 ## 📸 Captura de ejemplo
 
 > *(Agrega una imagen del bot en acción si deseas)*  
-![Ejemplo del Bot](https://via.placeholder.com/800x400.png?text=Captura+del+bot+en+Discord)
+![Ejemplo del Bot]([https://via.placeholder.com/800x400.png?text=Captura+del+bot+en+Discord](https://imgur.com/a/rEXTQyx))
 
 ---
 

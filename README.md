@@ -14,6 +14,7 @@ Un bot de Discord simple y personalizable para crear tickets, realizar cálculos
 - 🔒 Gestión de permisos y roles automática
 - 💬 Respuestas automáticas y mensajes personalizados
 - 📊 Estadísticas básicas y logs
+- ⚙️ Puedes configurarlo en segundos
 
 ---
 
